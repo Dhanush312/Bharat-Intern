@@ -31,7 +31,7 @@ Technologies Used
 
 Project 2: Temperature Converter
 -----
-For this project, I developed a simple but functional Temperature Converter web app, built with HTML, CSS, and JavaScript. The app allows users to easily convert temperatures between Celsius and Fahrenheit, with a real-time conversion feature that updates instantly as the user types in the input fields.
+For this project, I developed a simple but functional Temperature Converter web page, built with HTML, CSS, and JavaScript. The web page allows users to easily convert temperatures between Celsius and Fahrenheit, with a real-time conversion feature that updates instantly as the user types in the input fields.
 
 Project Overview
 -----
